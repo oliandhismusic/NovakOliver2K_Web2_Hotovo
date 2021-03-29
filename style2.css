@@ -1,0 +1,29 @@
+body{
+    background-image: url("./D68E310C-6FA8-4CFA-82C7-D96D9E109512.JPG");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+.container3{
+    padding-bottom: 40px;
+    text-align: center;
+    color: white;
+    
+}
+.row{
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+.box{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: black;
+    opacity: 0.7;
+    border-radius: 40px;
+}
+.container4{
+ text-align: center;
+    color: white;   
+ 
+}

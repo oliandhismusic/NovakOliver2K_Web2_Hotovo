@@ -1,0 +1,27 @@
+body {
+background-image: url("./613D8AAD-9532-488F-A1B4-D54769941601.JPG");
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.profile{
+  padding: 30px;
+  border-radius: 50%;
+
+}
+
+.container3{
+    text-align: center;
+}
+.container4{
+    text-align: center;
+}
+
+    
+    
+
+.container{
+    text-align: center;
+    
+}
